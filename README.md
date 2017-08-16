@@ -11,14 +11,14 @@ An obvious place for us to begin is with the [Société des anciens textes fran�
 
 Some initial desiderata might be:
 
-..* _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889)
-..* _Merlin_ in 2 vols (1886)
-..* _Le roman de Thèbes_ in 2 vols (1890)
-..* Jean Froissart, _Meliador_ in 3 vols (1895)
-..* _Florence de Rome_ in 2 vols (1907, 1909)
-..* Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909)
-..* Gervais de Bus, _Le roman de Fauvel_ in 2 vols (1914, 1919)
-..* _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
+* _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889)
+* _Merlin_ in 2 vols (1886)
+* _Le roman de Thèbes_ in 2 vols (1890)
+* Jean Froissart, _Meliador_ in 3 vols (1895)
+* _Florence de Rome_ in 2 vols (1907, 1909)
+* Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909)
+* Gervais de Bus, _Le roman de Fauvel_ in 2 vols (1914, 1919)
+* _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 
 There are also many places to find open, digitized editions to work with: Google
 Books, Gallica, Internet Archive, HathiTrust.  Of course, there are other medieval
