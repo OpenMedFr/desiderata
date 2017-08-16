@@ -1,7 +1,7 @@
 
 # Open Medieval French
 
-The Open Medieval French initiative aims to publish open, plain text
+The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text
 versions of works written over four centuries of Medieval French.  In the
 beginning this means texts deriving from a digitized copy of a book, processed
 by OCR and then corrected by hand.
@@ -10,7 +10,8 @@ With such plain text versions at their disposal, scholars can use the texts
 within the scope of their advanced research questions (digital editions, text
 mining, NLP, entity extraction, etc.).
 
-An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s, that is, that arein the public domain and have already been digitized.
+An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s, that is, that
+are in the public domain and have already been digitized.
 
 Some initial candidates for inclusion might be:
 
@@ -27,8 +28,8 @@ There are also many places to find open, digitized editions to work with: Google
 Books, Gallica, Internet Archive and HathiTrust.
 
 There are also existing corpora of works in medieval French, BMF, LFA (Ottawa),
-Classiques Garnier, ARTFL. We are compiling a list of what these corpora already
-offer and will publish it here.
+Nouveau Corpus d'Amsterdam, SRCMF, Classiques Garnier, ARTFL. We are compiling a
+list of what these corpora already offer and will publish it here.
 
 OpenMedFr is inspired by the OpenPhilology movement, including [Open Greek and Latin](https://github.com/OpenGreekAndLatin), the [Open Islamic Texts Initiative](https://github.com/OpenITI) and [EEBO TCP](http://www.textcreationpartnership.org/tcp-eebo/).
 
