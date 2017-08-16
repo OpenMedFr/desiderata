@@ -10,9 +10,9 @@ With such plain text versions at their disposal, scholars can use the texts
 within the scope of their advanced research questions (digital editions, text
 mining, NLP, entity extraction, etc.).
 
-An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais) which contains some 90+ texts published before the 1920s that have already been digitized.
+An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s, that is, that arein the public domain and have already been digitized.
 
-Some initial desiderata might be:
+Some initial candidates for inclusion might be:
 
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889)
 * _Merlin_ in 2 vols (1886)
