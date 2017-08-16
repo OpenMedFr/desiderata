@@ -1,3 +1,6 @@
+
+# Open Medieval French
+
 The Open Medieval French initiative aims to publish open, plain text
 versions of works written over four centuries of Medieval French.  In the
 beginning this means texts deriving from a digitized copy of a book, processed
