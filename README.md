@@ -24,9 +24,13 @@ Some initial desiderata might be:
 * _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 
 There are also many places to find open, digitized editions to work with: Google
-Books, Gallica, Internet Archive, HathiTrust.  Of course, there are other medieval
-French corpora available: BMF, LFA (Ottawa), Anglo-Norman Hub Online. We are
-compiling a list of what they already have and will publish it here.
+Books, Gallica, Internet Archive and HathiTrust.
 
-If you are interested in contributing to this digital collections project, please
-contact djw12 (at) nyu (dot) edu.
+There are also existing corpora of works in medieval French, BMF, LFA (Ottawa),
+Classiques Garnier, ARTFL. We are compiling a list of what these corpora already
+offer and will publish it here.
+
+OpenMedFr is inspired by the OpenPhilology movement, including [Open Greek and Latin](https://github.com/OpenGreekAndLatin), the [Open Islamic Texts Initiative](https://github.com/OpenITI) and [EEBO TCP](http://www.textcreationpartnership.org/tcp-eebo/).
+
+If you are interested in contributing to this digital text creation project,
+please contact djw12 (at) nyu (dot) edu.
