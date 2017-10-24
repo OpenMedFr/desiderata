@@ -8,7 +8,7 @@ by OCR and then corrected and annotated by hand.
 
 With such plain text versions at their disposal, scholars can use the texts
 within the scope of their advanced research questions (digital editions, text
-mining, NLP, entity extraction, etc.).
+mining, NLP, alignment, entity extraction, etc.).
 
 An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s, that is, that
 are in the public domain and have already been digitized.
@@ -16,17 +16,18 @@ are in the public domain and have already been digitized.
 Some initial candidates for inclusion might be:
 
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889)
+* _La fille du comte de Pontieu_ (1922)
+* _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 * _Merlin_ in 2 vols (1886)
 * _Le roman de Thèbes_ in 2 vols (1890)
 * Jean Froissart, _Meliador_ in 3 vols (1895)
 * _Florence de Rome_ in 2 vols (1907, 1909)
 * Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909)
 * Gervais de Bus, _Le roman de Fauvel_ in 2 vols (1914, 1919)
-* _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 
 There are also many places to find open, digitized editions to work with: Google
 Books, Gallica, Internet Archive and HathiTrust. In addition, early Romance journals
-such as Romania and Romanische Forschungen are important sources.
+such as _Romania_ and _Romanische Forschungen_ are important sources as well.
 
 There are also existing corpora of works in medieval French, BMF, LFA (Ottawa),
 Nouveau Corpus d'Amsterdam, SRCMF, Classiques Garnier, ARTFL. We are compiling a
