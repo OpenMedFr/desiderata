@@ -25,7 +25,8 @@ Some initial candidates for inclusion might be:
 * _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 
 There are also many places to find open, digitized editions to work with: Google
-Books, Gallica, Internet Archive and HathiTrust.
+Books, Gallica, Internet Archive and HathiTrust. In addition, early Romance journals
+such as Romania and Romanische Forschungen are important sources.
 
 There are also existing corpora of works in medieval French, BMF, LFA (Ottawa),
 Nouveau Corpus d'Amsterdam, SRCMF, Classiques Garnier, ARTFL. We are compiling a
