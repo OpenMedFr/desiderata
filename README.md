@@ -3,7 +3,7 @@
 
 The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text
 versions of works written over four centuries of Medieval French.  In the
-beginning this means texts deriving from a digitized copy of a book, processed
+beginning this means texts deriving from a digitized copy of a public domain book, processed
 by OCR and then corrected and annotated by hand.
 
 With such plain text versions at their disposal, scholars can use the texts
