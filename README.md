@@ -9,7 +9,7 @@ We work with digitized copies of a public domain books, process them by optical 
 
 An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s.
 
-Some candidates for inclusion:
+Some candidates from pre-1925 SATF volumes for inclusion:
 
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889) - in process
 * _La fille du comte de Pontieu_ 13th and 15th versions (1922) - in process 
@@ -23,6 +23,11 @@ Some candidates for inclusion:
 * _Florence de Rome_ in 2 vols (1907, 1909)
 * _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
 * Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909)
+
+Several authorial oeuvres are available for inclusion as well:
+
+* [Chrétien de Troyes](https://fr.wikisource.org/wiki/Auteur:Chr%C3%A9tien_de_Troyes)
+* Adenet le roi [Buevon de Conmarchis](https://archive.org/details/beuvesdecommarch00adenuoft); [Enfances Ogier](https://archive.org/details/lesenfancesogier00pariuoft); [Berte aus grans piés](https://archive.org/details/liroumansdeberte00bert); [Cleomadés vol 1](https://archive.org/details/liroumansdecl01aden); [Cleomades vol 2](https://archive.org/details/liroumansdeclo02adenuoft)
 
 
 There are also many other places to find public domain digitized editions: Google
