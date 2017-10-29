@@ -28,6 +28,7 @@ Several authorial oeuvres are available for inclusion as well:
 
 * [Chrétien de Troyes](https://fr.wikisource.org/wiki/Auteur:Chr%C3%A9tien_de_Troyes)
 * Adenet le roi [Buevon de Conmarchis](https://archive.org/details/beuvesdecommarch00adenuoft); [Enfances Ogier](https://archive.org/details/lesenfancesogier00pariuoft); [Berte aus grans piés](https://archive.org/details/liroumansdeberte00bert); [Cleomadés vol 1](https://archive.org/details/liroumansdecl01aden); [Cleomades vol 2](https://archive.org/details/liroumansdeclo02adenuoft)
+* Guillaume de Machaut [vol 1](https://archive.org/stream/oeuvresdeguillau01guil#page/n3/mode/2up); [vol 2](https://archive.org/stream/oeuvresdeguillau02guil); [vol 3](https://archive.org/stream/oeuvresdeguillau03guil#page/n5/mode/2up).
 
 
 There are also many other places to find public domain digitized editions: Google
