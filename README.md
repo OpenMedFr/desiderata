@@ -1,18 +1,15 @@
 
 # Open Medieval French
 
-The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text
-versions of works written over four centuries of Medieval French.  
+The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text versions of works written over four centuries of Medieval French writing. The main goal of the initiative in its early stages is to jump start digital textual studies in medieval French through the creation of open corpora and a community of both users and producers of textual data.
 
-Medieval French is far behind other languages in terms of open corpora available for use in digital humanities scholarship.
+With such plain text versions at their disposal, researchers can use the texts within the scope of their advanced research questions (digital editions in TEI XML, text mining, NLP, alignment, entity extraction, etc.).
 
-In the beginning of the OpenMedFr initiative we intend to work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. They will not be 100% error free. 
-
-With such plain text versions at their disposal, researchers can use the texts within the scope of their advanced research questions (digital editions, text mining, NLP, alignment, entity extraction, etc.).
+We work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. They will not be 100% error free. 
 
 An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s.
 
-Some initial candidates for inclusion might be:
+Some candidates for inclusion:
 
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889) - in process
 * _La fille du comte de Pontieu_ 13th and 15th versions (1922) - in process 
