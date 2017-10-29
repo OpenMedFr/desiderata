@@ -5,7 +5,7 @@ The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text
 
 With such plain text versions at their disposal, researchers can use the texts within the scope of their advanced research questions (digital editions in TEI XML, text mining, NLP, alignment, entity extraction, etc.).
 
-We work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. They will not be 100% error free. 
+We work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. In this first phase, the texts will be clean, but they will not be 100% error free.
 
 An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s.
 
@@ -15,6 +15,8 @@ Some candidates from pre-1925 SATF volumes for inclusion:
 * _La fille du comte de Pontieu_ 13th and 15th versions (1922) - in process 
 * Jean Renart, _Le Lai de l'ombre_ (1913) - in process
 * _L'escoufle_ (1894)
+* Jean de Meun, _L'art de chevalerie_ (1897)
+* Jean Priorat, _L'abrejance de l'ordre de chevalerie_ (1897)
 * _Florence de Rome_ in 2 vols (1907, 1909)
 * _Merlin_ in 2 vols (1886)
 * Gervais de Bus, _Le roman de Fauvel_ in 2 vols (1914, 1919)
