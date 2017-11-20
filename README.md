@@ -1,7 +1,7 @@
 
 # Open Medieval French
 
-The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text versions of works written over four centuries of Medieval French writing. The main goal of the initiative in its early stages is to jump start digital textual studies in medieval French through the creation of open corpora and a community of both users and producers of textual data.
+The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text versions of works written over four centuries of Medieval French writing. The main goal of the initiative in its early stages is to expand digital textual studies in medieval French through the creation of open corpora and a community of both users and producers of textual data.
 
 With such plain text versions at their disposal, researchers can use the texts within the scope of their advanced research questions (digital editions in TEI XML, text mining, NLP, alignment, entity extraction, etc.).
 
