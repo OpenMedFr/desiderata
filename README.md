@@ -5,7 +5,7 @@ The Open Medieval French (OpenMedFr) initiative aims to publish open, plain text
 
 With such plain text versions at their disposal, researchers can use the texts within the scope of their advanced research questions (digital editions in TEI XML, text mining, NLP, alignment, entity extraction, etc.).
 
-We work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. In this first phase, the texts will be clean, but they will not be 100% error free.
+We work with digitized copies of a public domain books, process them by optical character recognition (OCR) and correct and annotate them by hand. In this first phase, the texts will be high quality, but they will not be 100% error free.
 
 An obvious place for us to begin is with the [Société des anciens textes français](https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_anciens_textes_fran%C3%A7ais), a series which contains some 90+ texts published before the 1920s.
 
