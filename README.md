@@ -14,17 +14,17 @@ Some candidates from pre-1925 SATF volumes for inclusion:
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889) - in process
 * _La fille du comte de Pontieu_ 13th and 15th versions (1922) - in process 
 * Jean Renart, _Le Lai de l'ombre_ (1913) - in process
+* _Le roman de Thèbes_ in 2 vols (1890) - in process
+* Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909) - in process
 * _L'escoufle_ (1894)
 * Jean de Meun, _L'art de chevalerie_ (1897)
 * Jean Priorat, _L'abrejance de l'ordre de chevalerie_ (1897)
 * _Florence de Rome_ in 2 vols (1907, 1909)
 * _Merlin_ in 2 vols (1886)
 * Gervais de Bus, _Le roman de Fauvel_ in 2 vols (1914, 1919)
-* _Le roman de Thèbes_ in 2 vols (1890)
 * Jean Froissart, _Meliador_ in 3 vols (1895)
 * _Florence de Rome_ in 2 vols (1907, 1909)
 * _Miracles de Nostre Dame par personnages_ in 8 vols (1876-83)
-* Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909)
 
 Several authorial oeuvres are available for inclusion as well:
 
