@@ -13,10 +13,9 @@ Some candidates from pre-1925 SATF volumes for inclusion:
 
 * _Trois versions rimées de l'Évangile de Nicodème_ (1885, 1889) - in process
 * _La fille du comte de Pontieu_ 13th and 15th versions (1922) - in process 
-* Jean Renart, _Le Lai de l'ombre_ (1913) - in process
 * _Le roman de Thèbes_ in 2 vols (1890) - in process
 * Benoît de Sainte-Maure, _Le roman de Troie_ in 6 vols (1909) - in process
-* _L'escoufle_ (1894)
+* _L'escoufle_ (1894) 
 * Jean de Meun, _L'art de chevalerie_ (1897)
 * Jean Priorat, _L'abrejance de l'ordre de chevalerie_ (1897)
 * _Florence de Rome_ in 2 vols (1907, 1909)
@@ -33,13 +32,9 @@ Several authorial oeuvres are available for inclusion as well:
 * Philippe de Rémi, [Oeuvres poétiques](https://fr.wikisource.org/wiki/Auteur:Philippe_de_R%C3%A9mi,_sire_de_Beaumanoir)
 
 
-There are also many other places to find public domain digitized editions: Google
-Books, Gallica, Internet Archive and HathiTrust. In addition, early Romance journals
-such as _Romania_ and _Romanische Forschungen_ are important sources as well.
+There are also many other places to find public domain digitized editions: Google Books, Gallica, Internet Archive and HathiTrust. In addition, early Romance journals such as _Romania_ and _Romanische Forschungen_ are important sources as well.
 
-There are also existing corpora of works in medieval French, BMF, LFA (Ottawa),
-Nouveau Corpus d'Amsterdam, SRCMF, Classiques Garnier, ARTFL. We are compiling a
-list of what these corpora already offer and will publish it here.
+There are also existing corpora of works in medieval French, BMF, LFA (Ottawa), Nouveau Corpus d'Amsterdam, SRCMF, Classiques Garnier, ARTFL. The Classical Language ToolKit has assembled some [materials](https://github.com/cltk/french_text_wikisource) from Wikisource. We are compiling a list of what these corpora already offer and will publish it here.
 
 OpenMedFr is inspired by the OpenPhilology movement, including [Open Greek and Latin](https://github.com/OpenGreekAndLatin), the [Open Islamic Texts Initiative](https://github.com/OpenITI) and [EEBO TCP](http://www.textcreationpartnership.org/tcp-eebo/).
 
