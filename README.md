@@ -39,4 +39,4 @@ There are also existing corpora of works in medieval French, BMF, LFA (Ottawa), 
 OpenMedFr is inspired by the OpenPhilology movement, including [Open Greek and Latin](https://github.com/OpenGreekAndLatin), the [Open Islamic Texts Initiative](https://github.com/OpenITI) and [EEBO TCP](http://www.textcreationpartnership.org/tcp-eebo/).
 
 If you are interested in contributing to this digital text creation project, or have found errors you would like to point out,
-please contact djw12 (at) nyu (dot) edu.
+please contact openmedfr (at) gmail (dot) com.
